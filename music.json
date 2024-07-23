@@ -31,21 +31,21 @@
         {
             "Name":"Unexpected",
             "Artist":"dahonzak",
-            "Image":"",
+            "Image":"unexpected-dahonzak-ai.jpg",
             "File":"unexpected-dahonzak.mp3",
             "Duration":123
         },
         {
             "Name":"AMALGAM",
             "Artist":"Rockot",
-            "Image":"",
+            "Image":"amalgam-rockot-ai.jpg",
             "File":"amalgam-rockot.mp3",
             "Duration":254
         },
         {
             "Name":"Tokyo Cafe",
             "Artist":"TVARI",
-            "Image":"",
+            "Image":"tokyo-cafe-tvari-ai.jpg",
             "File":"tokyo-cafe-tvari.mp3",
             "Duration":153
         }
