@@ -13,6 +13,20 @@
             "Image":"",
             "File":"feather-dahonzak.mp3",
             "Duration":162
+        },
+        {
+            "Name":"AMALGAM",
+            "Artist":"Rockot",
+            "Image":"",
+            "File":"amalgam-rockot.mp3",
+            "Duration":254
+        },
+        {
+            "Name":"Tokyo Cafe",
+            "Artist":"TVARI",
+            "Image":"",
+            "File":"tokyo-cafe-tvari.mp3",
+            "Duration":254
         }
     ]
 }
