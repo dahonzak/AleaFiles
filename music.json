@@ -1,0 +1,18 @@
+{
+    "Music":[
+        {
+            "Name":"Coffee",
+            "Artist":"dahonzak",
+            "Image":"coffee-dahonzak.jpg",
+            "File":"coffee-dahonzak.mp3",
+            "Duration":122
+        },
+        {
+            "Name":"Feather",
+            "Artist":"dahonzak",
+            "Image":"",
+            "File":"feather-dahonzak.mp3",
+            "Duration":162
+        }
+    ]
+}
