@@ -10,9 +10,30 @@
         {
             "Name":"Feather",
             "Artist":"dahonzak",
-            "Image":"",
+            "Image":"feather-dahonzak.jpg",
             "File":"feather-dahonzak.mp3",
             "Duration":162
+        },
+        {
+            "Name":"Flying",
+            "Artist":"dahonzak",
+            "Image":"flying-dahonzak.jpg",
+            "File":"flying-dahonzak.mp3",
+            "Duration":71
+        },
+        {
+            "Name":"Work",
+            "Artist":"dahonzak",
+            "Image":"work-dahonzak.jpg",
+            "File":"work-dahonzak.mp3",
+            "Duration":84
+        },
+        {
+            "Name":"Unexpected",
+            "Artist":"dahonzak",
+            "Image":"",
+            "File":"unexpected-dahonzak.mp3",
+            "Duration":123
         },
         {
             "Name":"AMALGAM",
