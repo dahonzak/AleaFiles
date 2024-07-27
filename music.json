@@ -1,6 +1,24 @@
 {
     "Music":[
         {
+            "Name":"『 0 (zero) -English version-』“The Case Study of Vanitas” ver.",
+            "Artist":"LMYK",
+            "Image":"",
+            "File":"tt30ieNkKyI",
+            "Duration":218,
+            "Type":"youtube"
+        },
+        {
+            "Name":"sand dream",
+            "Artist":"Revo & 梶浦由記",
+            "Image":"",
+            "File":"D8hCn4no4O8",
+            "Duration":451,
+            "Type":"youtube"
+        }
+    ],
+    "MusicOld":[
+        {
             "Name":"Coffee",
             "Artist":"dahonzak",
             "Image":"coffee-dahonzak.jpg",
