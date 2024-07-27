@@ -5,49 +5,56 @@
             "Artist":"dahonzak",
             "Image":"coffee-dahonzak.jpg",
             "File":"coffee-dahonzak.mp3",
-            "Duration":122
+            "Duration":122,
+            "Type":"mp3"
         },
         {
             "Name":"Feather",
             "Artist":"dahonzak",
             "Image":"feather-dahonzak.jpg",
             "File":"feather-dahonzak.mp3",
-            "Duration":162
+            "Duration":162,
+            "Type":"mp3"
         },
         {
             "Name":"Flying",
             "Artist":"dahonzak",
             "Image":"flying-dahonzak.jpg",
             "File":"flying-dahonzak.mp3",
-            "Duration":71
+            "Duration":71,
+            "Type":"mp3"
         },
         {
             "Name":"Work",
             "Artist":"dahonzak",
             "Image":"work-dahonzak.jpg",
             "File":"work-dahonzak.mp3",
-            "Duration":84
+            "Duration":84,
+            "Type":"mp3"
         },
         {
             "Name":"Unexpected",
             "Artist":"dahonzak",
             "Image":"unexpected-dahonzak-ai.jpg",
             "File":"unexpected-dahonzak.mp3",
-            "Duration":123
+            "Duration":123,
+            "Type":"mp3"
         },
         {
             "Name":"AMALGAM",
             "Artist":"Rockot",
             "Image":"amalgam-rockot-ai.jpg",
             "File":"amalgam-rockot.mp3",
-            "Duration":254
+            "Duration":254,
+            "Type":"mp3"
         },
         {
             "Name":"Tokyo Cafe",
             "Artist":"TVARI",
             "Image":"tokyo-cafe-tvari-ai.jpg",
             "File":"tokyo-cafe-tvari.mp3",
-            "Duration":153
+            "Duration":153,
+            "Type":"mp3"
         }
     ]
 }
