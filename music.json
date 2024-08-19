@@ -9,6 +9,30 @@
             "Type":"youtube"
         },
         {
+            "Name":"Dareka Umiwo",
+            "Artist":"Aimer",
+            "Image":"",
+            "File":"uw25cRdZi_0",
+            "Duration":294,
+            "Type":"youtube"
+        },
+        {
+            "Name":"Forward",
+            "Artist":"Gohma",
+            "Image":"",
+            "File":"HFCWSRZBhVU",
+            "Duration":294,
+            "Type":"youtube"
+        },
+        {
+            "Name":"Trigger",
+            "Artist":"Yuuki Ozaki",
+            "Image":"",
+            "File":"oT33MXomUPs",
+            "Duration":307,
+            "Type":"youtube"
+        },
+        {
             "Name":"sand dream",
             "Artist":"Revo & 梶浦由記",
             "Image":"",
@@ -47,9 +71,7 @@
             "File":"Xs0Lxif1u9E",
             "Duration":233,
             "Type":"youtube"
-        }
-    ],
-    "MusicOld":[
+        },
         {
             "Name":"Coffee",
             "Artist":"dahonzak",
