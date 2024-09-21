@@ -1,5 +1,5 @@
 {
-    "Music":[
+    "MusicOld":[
         {
             "Name":"『 0 (zero) -English version-』“The Case Study of Vanitas” ver.",
             "Artist":"LMYK",
@@ -63,7 +63,8 @@
             "File":"Xs0Lxif1u9E",
             "Duration":233,
             "Type":"youtube"
-        },
+        }],
+        "Music":[
         {
             "Name":"Coffee",
             "Artist":"dahonzak",
