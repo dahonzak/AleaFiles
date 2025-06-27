@@ -104,22 +104,6 @@
             "File":"unexpected-dahonzak.mp3",
             "Duration":123,
             "Type":"mp3"
-        },
-        {
-            "Name":"AMALGAM",
-            "Artist":"Rockot",
-            "Image":"amalgam-rockot-ai.jpg",
-            "File":"amalgam-rockot.mp3",
-            "Duration":254,
-            "Type":"mp3"
-        },
-        {
-            "Name":"Tokyo Cafe",
-            "Artist":"TVARI",
-            "Image":"tokyo-cafe-tvari-ai.jpg",
-            "File":"tokyo-cafe-tvari.mp3",
-            "Duration":153,
-            "Type":"mp3"
         }
     ]
 }
